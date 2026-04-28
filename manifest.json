@@ -2,7 +2,7 @@
   "name": "Dolabım — Kıyafet Takip",
   "short_name": "Dolabım",
   "description": "Kıyafetlerini dengeli giy, kombin yap",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f0f0f",
   "theme_color": "#0f0f0f",
